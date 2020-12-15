@@ -1,0 +1,8 @@
+H:\git\grafikprogramm\grafikprogramm\bin\Debug\grafikprogramm.exe.config
+H:\git\grafikprogramm\grafikprogramm\bin\Debug\triangles.txt
+H:\git\grafikprogramm\grafikprogramm\bin\Debug\grafikprogramm.exe
+H:\git\grafikprogramm\grafikprogramm\bin\Debug\grafikprogramm.pdb
+H:\git\grafikprogramm\grafikprogramm\bin\Debug\ImageViewer.dll
+H:\git\grafikprogramm\grafikprogramm\obj\Debug\grafikprogramm.csprojResolveAssemblyReference.cache
+H:\git\grafikprogramm\grafikprogramm\obj\Debug\grafikprogramm.exe
+H:\git\grafikprogramm\grafikprogramm\obj\Debug\grafikprogramm.pdb
